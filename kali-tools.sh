@@ -1,0 +1,1 @@
+sudo apt update && sudo apt install -y nmap wireshark tshark hydra john hashcat wifite aircrack-ng gobuster dirb nikto sqlmap ncat socat netcat-traditional tmux screen curl wget git binwalk libimage-exiftool-perl
